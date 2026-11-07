@@ -33,8 +33,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/TORBIomar/portfolio.git
-cd portfolio
+git clone https://github.com/TORBIomar/nextjs-developer-portfolio.git
+cd nextjs-developer-portfolio
 
 # Install dependencies
 npm install
